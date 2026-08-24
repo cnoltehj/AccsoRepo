@@ -1,0 +1,15 @@
+C:\Users\cnolt\OneDrive\Desktop\Job_Hunt\Assco\Assco Application\AsscoCourier.Infrastructure\bin\Debug\net10.0\AsscoCourier.Infrastructure.deps.json
+C:\Users\cnolt\OneDrive\Desktop\Job_Hunt\Assco\Assco Application\AsscoCourier.Infrastructure\bin\Debug\net10.0\AsscoCourier.Infrastructure.dll
+C:\Users\cnolt\OneDrive\Desktop\Job_Hunt\Assco\Assco Application\AsscoCourier.Infrastructure\bin\Debug\net10.0\AsscoCourier.Infrastructure.pdb
+C:\Users\cnolt\OneDrive\Desktop\Job_Hunt\Assco\Assco Application\AsscoCourier.Infrastructure\bin\Debug\net10.0\AsscoCourier.Domain.dll
+C:\Users\cnolt\OneDrive\Desktop\Job_Hunt\Assco\Assco Application\AsscoCourier.Infrastructure\bin\Debug\net10.0\AsscoCourier.Domain.pdb
+C:\Users\cnolt\OneDrive\Desktop\Job_Hunt\Assco\Assco Application\AsscoCourier.Infrastructure\obj\Debug\net10.0\AsscoCourier.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\cnolt\OneDrive\Desktop\Job_Hunt\Assco\Assco Application\AsscoCourier.Infrastructure\obj\Debug\net10.0\AsscoCourier.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cnolt\OneDrive\Desktop\Job_Hunt\Assco\Assco Application\AsscoCourier.Infrastructure\obj\Debug\net10.0\AsscoCourier.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\cnolt\OneDrive\Desktop\Job_Hunt\Assco\Assco Application\AsscoCourier.Infrastructure\obj\Debug\net10.0\AsscoCourier.Infrastructure.AssemblyInfo.cs
+C:\Users\cnolt\OneDrive\Desktop\Job_Hunt\Assco\Assco Application\AsscoCourier.Infrastructure\obj\Debug\net10.0\AsscoCourier.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\cnolt\OneDrive\Desktop\Job_Hunt\Assco\Assco Application\AsscoCourier.Infrastructure\obj\Debug\net10.0\AsscoCou.7C8F0DB9.Up2Date
+C:\Users\cnolt\OneDrive\Desktop\Job_Hunt\Assco\Assco Application\AsscoCourier.Infrastructure\obj\Debug\net10.0\AsscoCourier.Infrastructure.dll
+C:\Users\cnolt\OneDrive\Desktop\Job_Hunt\Assco\Assco Application\AsscoCourier.Infrastructure\obj\Debug\net10.0\refint\AsscoCourier.Infrastructure.dll
+C:\Users\cnolt\OneDrive\Desktop\Job_Hunt\Assco\Assco Application\AsscoCourier.Infrastructure\obj\Debug\net10.0\AsscoCourier.Infrastructure.pdb
+C:\Users\cnolt\OneDrive\Desktop\Job_Hunt\Assco\Assco Application\AsscoCourier.Infrastructure\obj\Debug\net10.0\ref\AsscoCourier.Infrastructure.dll

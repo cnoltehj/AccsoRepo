@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="../AccsoCourier.Domain.Test/AccsoCourier.Domain.Test.csproj" />
+  <Project Path="../AccsoCourier.Domain/AccsoCourier.Domain.csproj" />
+  <Project Path="../AccsoCourier.Infrastructure/AccsoCourier.Infrastructure.csproj" />
+  <Project Path="AccsoCourier.API.csproj" />
+</Solution>

@@ -1,0 +1,72 @@
+2026-08-24 15:03:33.7964 Info Registered target NLog.Targets.FileTarget(Name=AccsoCourier.Api-All)
+2026-08-24 15:03:33.8407 Info Registered target NLog.Targets.FileTarget(Name=AccsoCourier.Api-Trace)
+2026-08-24 15:03:33.8451 Info Registered target NLog.Targets.FileTarget(Name=AccsoCourier.Api-Info)
+2026-08-24 15:03:33.8451 Info Registered target NLog.Targets.FileTarget(Name=AccsoCourier.Api-Error)
+2026-08-24 15:03:33.9086 Info NLog, Version=6.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 6.2.0.5698. Product version: 6.2.0+d38a12a9e2ed2f229d3990068cd7c66ebfd57805. GlobalAssemblyCache: False
+2026-08-24 15:03:34.0387 Info Configuration initialized: TargetNames=AccsoCourier.Api-All, AccsoCourier.Api-Trace, AccsoCourier.Api-Info, AccsoCourier.Api-Error, ConfigItems=98, AutoReload=true, FilePath=C:\Users\cnolt\OneDrive\Desktop\Job_Hunt\Assco\GitHub_repository\AccsoCourier.API\nlog.config
+2026-08-24 15:07:44.0432 Info Registered target NLog.Targets.FileTarget(Name=AccsoCourier.Api-All)
+2026-08-24 15:07:44.0653 Info Registered target NLog.Targets.FileTarget(Name=AccsoCourier.Api-Trace)
+2026-08-24 15:07:44.0653 Info Registered target NLog.Targets.FileTarget(Name=AccsoCourier.Api-Info)
+2026-08-24 15:07:44.0751 Info Registered target NLog.Targets.FileTarget(Name=AccsoCourier.Api-Error)
+2026-08-24 15:07:44.0751 Info NLog, Version=6.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 6.2.0.5698. Product version: 6.2.0+d38a12a9e2ed2f229d3990068cd7c66ebfd57805. GlobalAssemblyCache: False
+2026-08-24 15:07:44.1372 Info Configuration initialized: TargetNames=AccsoCourier.Api-All, AccsoCourier.Api-Trace, AccsoCourier.Api-Info, AccsoCourier.Api-Error, ConfigItems=98, AutoReload=true, FilePath=C:\app\nlog.config
+2026-08-24 15:11:45.2381 Info Registered target NLog.Targets.FileTarget(Name=AccsoCourier.Api-All)
+2026-08-24 15:11:45.2487 Info Registered target NLog.Targets.FileTarget(Name=AccsoCourier.Api-Trace)
+2026-08-24 15:11:45.2487 Info Registered target NLog.Targets.FileTarget(Name=AccsoCourier.Api-Info)
+2026-08-24 15:11:45.2670 Info Registered target NLog.Targets.FileTarget(Name=AccsoCourier.Api-Error)
+2026-08-24 15:11:45.2885 Info NLog, Version=6.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 6.2.0.5698. Product version: 6.2.0+d38a12a9e2ed2f229d3990068cd7c66ebfd57805. GlobalAssemblyCache: False
+2026-08-24 15:11:45.3371 Info Configuration initialized: TargetNames=AccsoCourier.Api-All, AccsoCourier.Api-Trace, AccsoCourier.Api-Info, AccsoCourier.Api-Error, ConfigItems=98, AutoReload=true, FilePath=C:\app\nlog.config
+2026-08-24 15:12:38.4758 Info Registered target NLog.Targets.FileTarget(Name=AccsoCourier.Api-All)
+2026-08-24 15:12:38.4925 Info Registered target NLog.Targets.FileTarget(Name=AccsoCourier.Api-Trace)
+2026-08-24 15:12:38.4925 Info Registered target NLog.Targets.FileTarget(Name=AccsoCourier.Api-Info)
+2026-08-24 15:12:38.5041 Info Registered target NLog.Targets.FileTarget(Name=AccsoCourier.Api-Error)
+2026-08-24 15:12:38.5203 Info NLog, Version=6.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 6.2.0.5698. Product version: 6.2.0+d38a12a9e2ed2f229d3990068cd7c66ebfd57805. GlobalAssemblyCache: False
+2026-08-24 15:12:38.5682 Info Configuration initialized: TargetNames=AccsoCourier.Api-All, AccsoCourier.Api-Trace, AccsoCourier.Api-Info, AccsoCourier.Api-Error, ConfigItems=98, AutoReload=true, FilePath=C:\app\nlog.config
+2026-08-24 15:13:49.8437 Info Registered target NLog.Targets.FileTarget(Name=AccsoCourier.Api-All)
+2026-08-24 15:13:49.8700 Info Registered target NLog.Targets.FileTarget(Name=AccsoCourier.Api-Trace)
+2026-08-24 15:13:49.8700 Info Registered target NLog.Targets.FileTarget(Name=AccsoCourier.Api-Info)
+2026-08-24 15:13:49.8700 Info Registered target NLog.Targets.FileTarget(Name=AccsoCourier.Api-Error)
+2026-08-24 15:13:49.9226 Info NLog, Version=6.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 6.2.0.5698. Product version: 6.2.0+d38a12a9e2ed2f229d3990068cd7c66ebfd57805. GlobalAssemblyCache: False
+2026-08-24 15:13:50.0766 Info Configuration initialized: TargetNames=AccsoCourier.Api-All, AccsoCourier.Api-Trace, AccsoCourier.Api-Info, AccsoCourier.Api-Error, ConfigItems=98, AutoReload=true, FilePath=C:\Users\cnolt\OneDrive\Desktop\Job_Hunt\Assco\GitHub_repository\AccsoCourier.API\nlog.config
+2026-08-24 15:15:34.0425 Info Registered target NLog.Targets.FileTarget(Name=AccsoCourier.Api-All)
+2026-08-24 15:15:34.0561 Info Registered target NLog.Targets.FileTarget(Name=AccsoCourier.Api-Trace)
+2026-08-24 15:15:34.0561 Info Registered target NLog.Targets.FileTarget(Name=AccsoCourier.Api-Info)
+2026-08-24 15:15:34.0739 Info Registered target NLog.Targets.FileTarget(Name=AccsoCourier.Api-Error)
+2026-08-24 15:15:34.1170 Info NLog, Version=6.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 6.2.0.5698. Product version: 6.2.0+d38a12a9e2ed2f229d3990068cd7c66ebfd57805. GlobalAssemblyCache: False
+2026-08-24 15:15:34.3253 Info Configuration initialized: TargetNames=AccsoCourier.Api-All, AccsoCourier.Api-Trace, AccsoCourier.Api-Info, AccsoCourier.Api-Error, ConfigItems=98, AutoReload=true, FilePath=C:\Users\cnolt\OneDrive\Desktop\Job_Hunt\Assco\GitHub_repository\AccsoCourier.API\nlog.config
+2026-08-24 15:17:22.9529 Info Registered target NLog.Targets.FileTarget(Name=AccsoCourier.Api-All)
+2026-08-24 15:17:22.9597 Info Registered target NLog.Targets.FileTarget(Name=AccsoCourier.Api-Trace)
+2026-08-24 15:17:22.9597 Info Registered target NLog.Targets.FileTarget(Name=AccsoCourier.Api-Info)
+2026-08-24 15:17:22.9764 Info Registered target NLog.Targets.FileTarget(Name=AccsoCourier.Api-Error)
+2026-08-24 15:17:22.9932 Info NLog, Version=6.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 6.2.0.5698. Product version: 6.2.0+d38a12a9e2ed2f229d3990068cd7c66ebfd57805. GlobalAssemblyCache: False
+2026-08-24 15:17:23.0382 Info Configuration initialized: TargetNames=AccsoCourier.Api-All, AccsoCourier.Api-Trace, AccsoCourier.Api-Info, AccsoCourier.Api-Error, ConfigItems=98, AutoReload=true, FilePath=C:\app\nlog.config
+2026-08-24 16:06:15.2598 Info Registered target NLog.Targets.FileTarget(Name=AccsoCourier.Api-All)
+2026-08-24 16:06:15.2704 Info Registered target NLog.Targets.FileTarget(Name=AccsoCourier.Api-Trace)
+2026-08-24 16:06:15.2704 Info Registered target NLog.Targets.FileTarget(Name=AccsoCourier.Api-Info)
+2026-08-24 16:06:15.2704 Info Registered target NLog.Targets.FileTarget(Name=AccsoCourier.Api-Error)
+2026-08-24 16:06:15.2894 Info NLog, Version=6.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 6.2.0.5698. Product version: 6.2.0+d38a12a9e2ed2f229d3990068cd7c66ebfd57805. GlobalAssemblyCache: False
+2026-08-24 16:06:15.3191 Info Configuration initialized: TargetNames=AccsoCourier.Api-All, AccsoCourier.Api-Trace, AccsoCourier.Api-Info, AccsoCourier.Api-Error, ConfigItems=98, AutoReload=true, FilePath=C:\app\nlog.config
+2026-08-24 16:08:15.3006 Info Registered target NLog.Targets.FileTarget(Name=AccsoCourier.Api-All)
+2026-08-24 16:08:15.3006 Info Registered target NLog.Targets.FileTarget(Name=AccsoCourier.Api-Trace)
+2026-08-24 16:08:15.3006 Info Registered target NLog.Targets.FileTarget(Name=AccsoCourier.Api-Info)
+2026-08-24 16:08:15.3006 Info Registered target NLog.Targets.FileTarget(Name=AccsoCourier.Api-Error)
+2026-08-24 16:08:15.3279 Info NLog, Version=6.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 6.2.0.5698. Product version: 6.2.0+d38a12a9e2ed2f229d3990068cd7c66ebfd57805. GlobalAssemblyCache: False
+2026-08-24 16:08:15.3553 Info Configuration initialized: TargetNames=AccsoCourier.Api-All, AccsoCourier.Api-Trace, AccsoCourier.Api-Info, AccsoCourier.Api-Error, ConfigItems=98, AutoReload=true, FilePath=C:\app\nlog.config
+2026-08-24 16:16:09.4185 Info Registered target NLog.Targets.FileTarget(Name=AccsoCourier.Api-All)
+2026-08-24 16:16:09.4315 Info Registered target NLog.Targets.FileTarget(Name=AccsoCourier.Api-Trace)
+2026-08-24 16:16:09.4315 Info Registered target NLog.Targets.FileTarget(Name=AccsoCourier.Api-Info)
+2026-08-24 16:16:09.4315 Info Registered target NLog.Targets.FileTarget(Name=AccsoCourier.Api-Error)
+2026-08-24 16:16:09.4621 Info NLog, Version=6.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 6.2.0.5698. Product version: 6.2.0+d38a12a9e2ed2f229d3990068cd7c66ebfd57805. GlobalAssemblyCache: False
+2026-08-24 16:16:09.5555 Info Configuration initialized: TargetNames=AccsoCourier.Api-All, AccsoCourier.Api-Trace, AccsoCourier.Api-Info, AccsoCourier.Api-Error, ConfigItems=98, AutoReload=true, FilePath=C:\app\nlog.config
+2026-08-24 16:16:47.5188 Info Registered target NLog.Targets.FileTarget(Name=AccsoCourier.Api-All)
+2026-08-24 16:16:47.5292 Info Registered target NLog.Targets.FileTarget(Name=AccsoCourier.Api-Trace)
+2026-08-24 16:16:47.5292 Info Registered target NLog.Targets.FileTarget(Name=AccsoCourier.Api-Info)
+2026-08-24 16:16:47.5292 Info Registered target NLog.Targets.FileTarget(Name=AccsoCourier.Api-Error)
+2026-08-24 16:16:47.5563 Info NLog, Version=6.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 6.2.0.5698. Product version: 6.2.0+d38a12a9e2ed2f229d3990068cd7c66ebfd57805. GlobalAssemblyCache: False
+2026-08-24 16:16:47.6309 Info Configuration initialized: TargetNames=AccsoCourier.Api-All, AccsoCourier.Api-Trace, AccsoCourier.Api-Info, AccsoCourier.Api-Error, ConfigItems=98, AutoReload=true, FilePath=C:\Users\cnolt\OneDrive\Desktop\Job_Hunt\Assco\GitHub_repository\AccsoCourier.API\nlog.config
+2026-08-24 16:18:17.4743 Info Registered target NLog.Targets.FileTarget(Name=AccsoCourier.Api-All)
+2026-08-24 16:18:17.4743 Info Registered target NLog.Targets.FileTarget(Name=AccsoCourier.Api-Trace)
+2026-08-24 16:18:17.4743 Info Registered target NLog.Targets.FileTarget(Name=AccsoCourier.Api-Info)
+2026-08-24 16:18:17.4888 Info Registered target NLog.Targets.FileTarget(Name=AccsoCourier.Api-Error)
+2026-08-24 16:18:17.4888 Info NLog, Version=6.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 6.2.0.5698. Product version: 6.2.0+d38a12a9e2ed2f229d3990068cd7c66ebfd57805. GlobalAssemblyCache: False
+2026-08-24 16:18:17.5388 Info Configuration initialized: TargetNames=AccsoCourier.Api-All, AccsoCourier.Api-Trace, AccsoCourier.Api-Info, AccsoCourier.Api-Error, ConfigItems=98, AutoReload=true, FilePath=C:\app\nlog.config

@@ -1,0 +1,12 @@
+C:\Users\cnolt\OneDrive\Desktop\Job_Hunt\Assco\Assco Application\AsscoCourier.Domain\bin\Debug\net10.0\AsscoCourier.Domain.deps.json
+C:\Users\cnolt\OneDrive\Desktop\Job_Hunt\Assco\Assco Application\AsscoCourier.Domain\bin\Debug\net10.0\AsscoCourier.Domain.dll
+C:\Users\cnolt\OneDrive\Desktop\Job_Hunt\Assco\Assco Application\AsscoCourier.Domain\bin\Debug\net10.0\AsscoCourier.Domain.pdb
+C:\Users\cnolt\OneDrive\Desktop\Job_Hunt\Assco\Assco Application\AsscoCourier.Domain\obj\Debug\net10.0\AsscoCourier.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cnolt\OneDrive\Desktop\Job_Hunt\Assco\Assco Application\AsscoCourier.Domain\obj\Debug\net10.0\AsscoCourier.Domain.AssemblyInfoInputs.cache
+C:\Users\cnolt\OneDrive\Desktop\Job_Hunt\Assco\Assco Application\AsscoCourier.Domain\obj\Debug\net10.0\AsscoCourier.Domain.AssemblyInfo.cs
+C:\Users\cnolt\OneDrive\Desktop\Job_Hunt\Assco\Assco Application\AsscoCourier.Domain\obj\Debug\net10.0\AsscoCourier.Domain.csproj.CoreCompileInputs.cache
+C:\Users\cnolt\OneDrive\Desktop\Job_Hunt\Assco\Assco Application\AsscoCourier.Domain\obj\Debug\net10.0\AsscoCourier.Domain.dll
+C:\Users\cnolt\OneDrive\Desktop\Job_Hunt\Assco\Assco Application\AsscoCourier.Domain\obj\Debug\net10.0\refint\AsscoCourier.Domain.dll
+C:\Users\cnolt\OneDrive\Desktop\Job_Hunt\Assco\Assco Application\AsscoCourier.Domain\obj\Debug\net10.0\AsscoCourier.Domain.pdb
+C:\Users\cnolt\OneDrive\Desktop\Job_Hunt\Assco\Assco Application\AsscoCourier.Domain\obj\Debug\net10.0\ref\AsscoCourier.Domain.dll
+C:\Users\cnolt\OneDrive\Desktop\Job_Hunt\Assco\Assco Application\AsscoCourier.Domain\obj\Debug\net10.0\AsscoCou.A824EA20.Up2Date
