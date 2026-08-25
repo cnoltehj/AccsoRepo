@@ -15,7 +15,7 @@ namespace AccsoCourier.API.Controllers
             var state = await repository.GetCurrentStateAsync(shipmentId);
             if (state is null)
             {
-                logger.LogError("NotFound - state for shipment {ShipmentId}: {@State}", shipmentId, state);\
+                logger.LogError("NotFound - state for shipment {ShipmentId}: {@State}", shipmentId, state);
                 return NotFound();
             }
             logger.LogInformation( "Successfully retrieved current state for shipment {ShipmentId}. Status={Status}, EventId={EventId}.",

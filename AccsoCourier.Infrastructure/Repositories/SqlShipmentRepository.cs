@@ -49,10 +49,11 @@ namespace AccsoCourier.Infrastructure.Repositories
             await using var cmd = new SqlCommand(sql, cn);
             cmd.Parameters.Add(new SqlParameter("@ShipmentId", SqlDbType.NVarChar, 100) { Value = shipmentId });
             await using var r = await cmd.ExecuteReaderAsync(ct);
-            while (await r.ReadAsync(ct)) { }
+            while (await r.ReadAsync(ct)) { 
                 items.Add(new ShipmentEvent(r.GetString(0), r.GetString(1), r.GetString(2), ParseStatus(r.GetString(3)),
                     new DateTimeOffset(r.GetDateTime(4), TimeSpan.Zero), new DateTimeOffset(r.GetDateTime(5), TimeSpan.Zero),
                     r.IsDBNull(6) ? null : r.GetString(6)));
+            }
             return items;
         }
 
